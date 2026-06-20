@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](Netflix_analysis_dashboard.png)
+![Dashboard](netflix_analysis_dashboard.png)
 
 ---
 
